@@ -1,0 +1,3 @@
+.simple-line {
+    border: 1px dashed var(--color-second);
+}
